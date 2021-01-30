@@ -1,7 +1,7 @@
 # Hey! ✨
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/codyarose)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://twitter.com/codyarose)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codyarose/)
 
 ### I'm Cody Rose, a frontend developer and artist who loves contributing to OSS and building beautiful, challenging, and efficient websites using React and Typescript.
 
