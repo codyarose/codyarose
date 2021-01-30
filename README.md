@@ -1,10 +1,8 @@
-# Hi, I'm Cody Rose
-<br>
+# Hey! ✨
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/codyarose)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://twitter.com/codyarose)
 
-### Hey! ✨
 ### I'm Cody Rose, a frontend developer and artist who loves contributing to OSS and building beautiful, challenging, and efficient websites using React and Typescript.
 
 <br>
@@ -19,7 +17,6 @@
 <br>
 
 ## Skills
----
 
 ![](https://img.shields.io/badge/JavaScript-%20-yellow?style=flat&logo=javascript&color=f7df1d&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-%20-blue?style=flat&logo=typescript&color=297acb&logoColor=white)
