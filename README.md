@@ -6,10 +6,10 @@
 ### I'm Cody Rose, a frontend developer and artist who loves contributing to OSS and building beautiful, challenging, and efficient websites using React and Typescript.
 
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/codyarose">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=codyarose&hide=stars&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/codyarose">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyarose&layout=compact&theme=dark" />
 </a>
 
